@@ -1,0 +1,39 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:wght@700&family=Lato:wght@300&family=Sofia&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Dancing+Script:wght@700&family=Great+Vibes&family=Lobster&family=Permanent+Marker&display=swap');
+:root{
+    --lobester: 'Lobster', cursive;
+    --roboto: "Roboto", sans-serif;
+    --sofia: "Sofia", cursive;
+}
+
+
+.sectionTag{
+    position:relative;
+    padding: 40px 0px;
+    font-size:80px;
+    padding-top: 50px;
+    font-family: "great vibes",sans-serif;
+  font-weight: bold;
+  position:relative;
+ text-align: center;
+
+
+
+ 
+}
+.sectionSubtag, .tag{
+    font-family: var(--roboto);
+    font-size: 1.5rem;
+}
+
+.pargraphs{
+    padding:100px 100px;
+
+}
+.about
+{
+    font-family: var(--lobester);
+    font-size: 3rem;
+    text-align: center;
+}
